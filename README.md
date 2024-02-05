@@ -60,16 +60,11 @@ the enumeration may take several seconds up to an hour, as the number of possibl
 If still no feasible schedule could be found, the agent is scheduled after all conflicting agents. Thus, the
 agent will be late, i.e. will arrive after its latest arrival constraint.
 
-<br>
-<div style="display:inline-block; justify-content:center; align-items:center;">
-  <img src="experiments/gif/big.gif" style="width:45%; margin-right:5px;">
-  <img src="experiments/gif/long.gif" style="width:45%; margin-left:5px;">
-</div>
-
 <p align="center">
-  Figure 2: Two example environments using OR schedule. The colored symbols indicates the predicted trajectories.
+    <img src="experiments/gif/big.gif"  margin-right:5px;"><br>
+    <img src="experiments/gif/long.gif" margin-left:5px;"><br>
+    Figure 2: Two example environments using OR schedule. The colored symbols indicates the predicted trajectories.
 </p>
-
 
 ## 4. Reinforcement Learning
 
