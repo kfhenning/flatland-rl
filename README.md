@@ -61,7 +61,7 @@ If still no feasible schedule could be found, the agent is scheduled after all c
 agent will be late, i.e. will arrive after its latest arrival constraint.
 
 <br>
-<div style="display:flex; justify-content:center; align-items:center;">
+<div style="display:inline-block; justify-content:center; align-items:center;">
   <img src="experiments/gif/big.gif" style="width:45%; margin-right:5px;">
   <img src="experiments/gif/long.gif" style="width:45%; margin-left:5px;">
 </div>
